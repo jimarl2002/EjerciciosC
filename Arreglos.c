@@ -23,3 +23,6 @@ printf("\n ultimo Flotante: \t\t %f", floatList[4]);
 printf("\n tercer Caracter: \t\t %c", charList[2]);
 return 0;
 }
+
+
+//Este es un comentarios  para T archivo generado desde el celular
